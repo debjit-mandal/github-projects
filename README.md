@@ -1,5 +1,5 @@
 # github-projects
-Website showing all of my gihtub projects
+Website showing all of my GitHub projects
 
 Live at https://gitfolio.debjit-mandal.com
 
